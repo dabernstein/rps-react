@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Rock Paper Scissors React Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react project to build a RPS local game.\
+Use the available scripts mentioned below to run the dev local env.
 
 ## Available Scripts
 
